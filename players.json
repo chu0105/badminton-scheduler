@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Jeffrey",
+        "level": 13.3,
+        "gender": "M",
+        "play_count": 19,
+        "wait_round": 2,
+        "partners_history": []
+    },
+    {
+        "name": "冠傑",
+        "level": 10.6,
+        "gender": "M",
+        "play_count": 34,
+        "wait_round": 0,
+        "partners_history": []
+    },
+    {
+        "name": "小美",
+        "level": 10.6,
+        "gender": "F",
+        "play_count": 33,
+        "wait_round": 2,
+        "partners_history": []
+    },
+    {
+        "name": "阿強",
+        "level": 13.6,
+        "gender": "M",
+        "play_count": 37,
+        "wait_round": 2,
+        "partners_history": []
+    },
+    {
+        "name": "老王",
+        "level": 10.4,
+        "gender": "M",
+        "play_count": 37,
+        "wait_round": 0,
+        "partners_history": []
+    },
+    {
+        "name": "小華",
+        "level": 10.5,
+        "gender": "F",
+        "play_count": 22,
+        "wait_round": 1,
+        "partners_history": []
+    },
+    {
+        "name": "阿蘭",
+        "level": 10.1,
+        "gender": "F",
+        "play_count": 22,
+        "wait_round": 1,
+        "partners_history": []
+    },
+    {
+        "name": "阿桃",
+        "level": 11.4,
+        "gender": "F",
+        "play_count": 23,
+        "wait_round": 0,
+        "partners_history": []
+    },
+    {
+        "name": "小東",
+        "level": 10.7,
+        "gender": "M",
+        "play_count": 37,
+        "wait_round": 0,
+        "partners_history": []
+    },
+    {
+        "name": "大力",
+        "level": 13.1,
+        "gender": "M",
+        "play_count": 23,
+        "wait_round": 0,
+        "partners_history": []
+    },
+    {
+        "name": "小愛",
+        "level": 10.5,
+        "gender": "F",
+        "play_count": 37,
+        "wait_round": 0,
+        "partners_history": []
+    },
+    {
+        "name": "阿輝",
+        "level": 12.0,
+        "gender": "M",
+        "play_count": 19,
+        "wait_round": 1,
+        "partners_history": []
+    },
+    {
+        "name": "阿明",
+        "level": 10.9,
+        "gender": "M",
+        "play_count": 19,
+        "wait_round": 1,
+        "partners_history": []
+    },
+    {
+        "name": "小龍",
+        "level": 13.4,
+        "gender": "M",
+        "play_count": 34,
+        "wait_round": 0,
+        "partners_history": []
+    },
+    {
+        "name": "阿芬",
+        "level": 10,
+        "gender": "F",
+        "play_count": 33,
+        "wait_round": 2,
+        "partners_history": []
+    },
+    {
+        "name": "大牛",
+        "level": 12.6,
+        "gender": "M",
+        "play_count": 19,
+        "wait_round": 0,
+        "partners_history": []
+    }
+]
